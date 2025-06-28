@@ -155,3 +155,9 @@ Successful communication will show:
 
 
 ![image-20250627155007932](README.assets/image-20250627155007932.png)
+
+### Reference:
+[capicxx-core-tools](https://github.com/COVESA/capicxx-core-tools)
+[CommonAPI C++](https://covesa.github.io/capicxx-core-tools/)
+[CommonAPI C++ SOME/IP binding](http://genivi.github.io/capicxx-someip-tools/)
+[SOME/IP](https://some-ip.com/)
