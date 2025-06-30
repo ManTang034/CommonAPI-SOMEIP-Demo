@@ -9,7 +9,7 @@ Two setup options available:
 1. **Docker-based Setup** (Recommended)
 2. **Manual Setup**
 
-## Step 0: Quick Docker Setup
+## Step 0: Quick Docker Setup -> Step 3
 ```bash
 docker build -t commonapi-env:22.04 .
 docker images | grep commonapi-env
@@ -17,6 +17,9 @@ docker run -it --rm commonapi-env:22.04 bash
 ```
 
 ## Step 1: Prerequisites Installation
+```shell
+docker exec -it containerId /bin/bash
+```
 
 ```shell
 apt update && apt install -y \
