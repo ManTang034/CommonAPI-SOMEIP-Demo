@@ -162,5 +162,5 @@ Successful communication will show:
 ### Reference:
 [capicxx-core-tools](https://github.com/COVESA/capicxx-core-tools)\
 [CommonAPI C++](https://covesa.github.io/capicxx-core-tools/)\
-[CommonAPI C++ SOME/IP binding](http://genivi.github.io/capicxx-someip-tools/)\
+[CommonAPI C++ SOME/IP binding](https://github.com/COVESA/capicxx-someip-tools/)\
 [SOME/IP](https://some-ip.com/)
