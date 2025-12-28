@@ -2,7 +2,7 @@
 
 ## Overview
 This project demonstrates a basic implementation of CommonAPI with SOME/IP communication protocol, showing how to establish communication between a service (server) and client in a Linux environment.
-AI Interpretation Link of This Repository:[zread.ai/ManTang034/CommonAPI-SOMEIP-Demo](https://zread.ai/ManTang034/CommonAPI-SOMEIP-Demo/1-overview)
+AI Interpretation Link of This Repository: [zread.ai/ManTang034/CommonAPI-SOMEIP-Demo](https://zread.ai/ManTang034/CommonAPI-SOMEIP-Demo/1-overview)
 
 ## Environment Configuration
 Two setup options available:
